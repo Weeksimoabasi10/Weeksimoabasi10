@@ -11,6 +11,7 @@ I specialize in:
 * 🧹 Cleaning and transforming messy datasets using **SQL**
 * 📈 Building interactive dashboards with **Power BI**
 * 🧠 Performing **business and competitor analysis**
+* ⚡ Customer Behaviour Analytics
 * 📊 Turning numbers into **real, actionable insights**
 
 My goal is simple:
@@ -70,8 +71,9 @@ I’m on a journey to become a **top-tier Data Analyst / BI Analyst**, helping o
 
 Outside analytics:
 
-* I enjoy gaming 🎮
-* I read to constantly expand my thinking 📚
+* I enjoy listening to podcasts 
+* I read to constantly expand my thinking 
+* I am a creative videograher 
 * And I’m always curious about how things work
 
 ---
