@@ -1,16 +1,93 @@
-## Hi there 👋
+# 👋 Hey there, I'm Weeksimoabasi!
 
-<!--
-**Weeksimoabasi10/Weeksimoabasi10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 I'm a passionate **Data Analyst** focused on transforming raw data into **clear insights, dashboards, and business decisions**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 What I Do
+
+I specialize in:
+
+* 🧹 Cleaning and transforming messy datasets using **SQL**
+* 📈 Building interactive dashboards with **Power BI**
+* 🧠 Performing **business and competitor analysis**
+* 📊 Turning numbers into **real, actionable insights**
+
+My goal is simple:
+👉 Not just to analyze data, but to **solve real business problems with it**.
+
+---
+
+## 🌱 My Approach
+
+I continuously refine my skills by working on **real-world data projects**, focusing on:
+
+* Business impact over just visuals
+* Clarity over complexity
+* Insight over noise
+
+---
+
+## 🔥 Current Focus
+
+* Building **portfolio-level data analysis projects**
+* Improving **data storytelling & visualization**
+* Exploring **advanced analytics techniques**
+
+---
+
+## 🚀 Featured Work
+
+* 🌍 **Global Market & Competitor Analysis**
+  A full-scale retail analysis project uncovering:
+
+  * Dominant markets
+  * Growth opportunities
+  * Customer behavior
+  * Pricing strategies
+
+---
+
+## 🤝 Collaboration
+
+I'm open to:
+
+* Data analysis projects
+* Business intelligence collaborations
+* Anything that involves **turning data into value**
+
+If it’s data-driven and impactful, I’m in 😉
+
+---
+
+## 🎯 Career Direction
+
+I’m on a journey to become a **top-tier Data Analyst / BI Analyst**, helping organizations make smarter, data-backed decisions.
+
+---
+
+## 🎮 Beyond Data
+
+Outside analytics:
+
+* I enjoy gaming 🎮
+* I read to constantly expand my thinking 📚
+* And I’m always curious about how things work
+
+---
+
+## ⚡ Fun Fact
+
+I enjoy cleaning messy datasets more than most people enjoy watching movies 😄
+
+---
+
+## 💬 Let’s Talk
+
+Feel free to reach out if you want to discuss:
+
+* Data projects
+* Business ideas
+* Analytics & insights
+
+Let’s build something meaningful with data 💙
